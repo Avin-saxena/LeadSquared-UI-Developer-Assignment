@@ -1,6 +1,6 @@
 
   <h1>🐱 Cat Gallery Application</h1>
-  <p>A multi-level cat gallery app that uses the <a href="https://thecatapi.com/">Cat API</a> to fetch and display cat images. 
+  <p>A multi-level cat gallery app that uses the Cat Images API to fetch and display cat images. 
      This project demonstrates progressive implementation across three levels: <b>Easy, Medium, and Hard</b>, with advanced features like pagination, infinite scrolling, modals, and optimized performance.</p>
 
   <h2>📋 Table of Contents</h2>
