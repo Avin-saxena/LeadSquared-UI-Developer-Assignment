@@ -98,17 +98,7 @@ cat-gallery-app/
 https://api.thecatapi.com/v1/images/search?limit=5&page=10&order=Desc
   </code></pre>
 
-  <h2 id="contributing">🤝 Contributing</h2>
-  <ol>
-    <li>Fork the repository.</li>
-    <li>Create a new branch: <code>git checkout -b feature/your-feature-name</code></li>
-    <li>Commit your changes: <code>git commit -m 'Add some feature'</code></li>
-    <li>Push to the branch: <code>git push origin feature/your-feature-name</code></li>
-    <li>Open a Pull Request.</li>
-  </ol>
 
-  <h2 id="license">📄 License</h2>
-  <p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for details.</p>
 
 </body>
 
