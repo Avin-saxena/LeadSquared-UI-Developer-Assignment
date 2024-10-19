@@ -82,7 +82,7 @@ cat-gallery-app/
 │   └── index.html
 ├── src/
 │   ├── components/
-│   │   ├── AppNavbar.js
+│   │   ├── Navbar.js
 │   │   ├── EasyLevel.js
 │   │   ├── MediumLevel.js
 │   │   └── HardLevel.js
