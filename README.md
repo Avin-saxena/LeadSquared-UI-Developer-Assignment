@@ -20,7 +20,7 @@
   <h3>Easy Level</h3>
   <ul>
     <li><b>Show More Button:</b> Fetch more images on button click and append to the existing list.</li>
-    <li><b>Grid Layout:</b> Uses Masonry layout to display images responsively.</li>
+    <li><b>Grid Layout:</b> Uses Grid layout to display images responsively.</li>
     <li><b>Loading and Error Handling:</b> Spinner and alert displayed during data fetching or on error.</li>
     <li><b>Modal with Carousel:</b> Browse images inside a modal carousel view.</li>
   </ul>
