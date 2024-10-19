@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>README - Cat Gallery Application</title>
-</head>
-
-<body>
 
   <h1>🐱 Cat Gallery Application</h1>
   <p>A multi-level cat gallery app that uses the <a href="https://thecatapi.com/">Cat API</a> to fetch and display cat images. 
